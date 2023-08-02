@@ -1,3 +1,9 @@
+{
+Desenvolvidor: Danilo Calixto
+Anotações    :
+             : 02/08/2023 - Concluido algorítmo Bubble Sort
+
+}
 unit UOrder;
 
 interface
